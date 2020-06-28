@@ -2,8 +2,7 @@
 
 `This app is fully developed in react-native-cli`
 
-`
-{
+``` {
   "name": "Myyoutube",
   "version": "0.0.1",
   "private": true,
@@ -43,4 +42,5 @@
   "jest": {
     "preset": "react-native"
   }
-}`
+}
+```
